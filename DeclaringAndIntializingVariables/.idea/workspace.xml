@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="48154f8c-9bf3-4fe6-b45a-38d91871333f" name="Default Changelist" comment="" />
+    <list default="true" id="8715acd7-1a42-466e-a8a0-4afdde313bb9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/learnprogramming/DeclaringAndIntializingVariables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PrimitiveCharAndBoolean/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PrimitiveCharAndBoolean/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,10 +23,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/academy/learnprogramming/PrimitiveCharAndBoolean.java">
+        <entry file="file://$PROJECT_DIR$/src/academy/learnprogramming/DeclaringAndIntializingVariables.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="64" selection-start-line="20" selection-start-column="64" selection-end-line="20" selection-end-column="64" />
+            <state relative-caret-position="630">
+              <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
             </state>
           </provider>
         </entry>
@@ -36,10 +40,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/academy/learnprogramming/PrimitiveCharAndBoolean.java" />
+        <option value="$PROJECT_DIR$/src/academy/learnprogramming/DeclaringAndIntializingVariables.java" />
       </list>
     </option>
   </component>
@@ -48,6 +55,7 @@
     <option name="width" value="720" />
     <option name="height" value="877" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -57,18 +65,38 @@
         <subPane>
           <expand>
             <path>
-              <item name="PrimitiveCharAndBoolean" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PrimitiveCharAndBoolean" type="462c0819:PsiDirectoryNode" />
+              <item name="DeclaringAndIntializingVariables" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DeclaringAndIntializingVariables" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DeclaringAndIntializingVariables" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DeclaringAndIntializingVariables" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DeclaringAndIntializingVariables" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DeclaringAndIntializingVariables" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="academy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DeclaringAndIntializingVariables" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DeclaringAndIntializingVariables" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="academy" type="462c0819:PsiDirectoryNode" />
+              <item name="learnprogramming" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -86,56 +114,36 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="PrimitiveCharAndBoolean" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.learnprogramming.PrimitiveCharAndBoolean" />
-      <module name="PrimitiveCharAndBoolean" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="academy.learnprogramming.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.PrimitiveCharAndBoolean" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="48154f8c-9bf3-4fe6-b45a-38d91871333f" name="Default Changelist" comment="" />
-      <created>1557866616452</created>
+      <changelist id="8715acd7-1a42-466e-a8a0-4afdde313bb9" name="Default Changelist" comment="" />
+      <created>1557867177586</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1557866616452</updated>
+      <updated>1557867177586</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="720" height="877" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24926254" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24926254" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3299363" />
+      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -151,10 +159,13 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/academy/learnprogramming/PrimitiveCharAndBoolean.java">
+    <entry file="file://$PROJECT_DIR$/DeclaringAndIntializingVariables.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/academy/learnprogramming/DeclaringAndIntializingVariables.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="64" selection-start-line="20" selection-start-column="64" selection-end-line="20" selection-end-column="64" />
+        <state relative-caret-position="630">
+          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
         </state>
       </provider>
     </entry>
