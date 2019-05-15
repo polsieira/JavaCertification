@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b6102ad5-43bc-4101-92b0-cf050b677c9c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/academy/learnprogramming/OrderingElementsInClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DefaultInitialization/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DefaultInitialization/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../VariableScope/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../VariableScope/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="4dbbbfa9-947f-45fd-9f5f-4697cf7d09c3" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,8 +21,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/academy/learnprogramming/OrderingElementsInClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="315">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
             </state>
           </provider>
         </entry>
@@ -40,20 +36,10 @@
       </list>
     </option>
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
-  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/academy/learnprogramming/OrderingElementsInClass.java" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
       </list>
     </option>
   </component>
@@ -62,7 +48,6 @@
     <option name="width" value="720" />
     <option name="height" value="877" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -75,30 +60,12 @@
               <item name="OrderingElementsInClass" type="b2602c69:ProjectViewProjectNode" />
               <item name="OrderingElementsInClass" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="OrderingElementsInClass" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OrderingElementsInClass" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="OrderingElementsInClass" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OrderingElementsInClass" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="academy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="OrderingElementsInClass" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OrderingElementsInClass" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="academy" type="462c0819:PsiDirectoryNode" />
-              <item name="learnprogramming" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -124,11 +91,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b6102ad5-43bc-4101-92b0-cf050b677c9c" name="Default Changelist" comment="" />
-      <created>1557875052023</created>
+      <changelist id="4dbbbfa9-947f-45fd-9f5f-4697cf7d09c3" name="Default Changelist" comment="" />
+      <created>1557947764464</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1557875052023</updated>
+      <updated>1557947764464</updated>
     </task>
     <servers />
   </component>
@@ -154,9 +121,9 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Palette" />
       <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Maven" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -165,8 +132,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/academy/learnprogramming/OrderingElementsInClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="315">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
