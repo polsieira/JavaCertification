@@ -1,0 +1,6 @@
+- OOP (allows functional but OOP mainly)
+- Encapsulation
+- Platform Independent (compiled to byte code and once)
+- Robust (major advantage over C++, prevents memory leaks and manages memory on its own)
+- Simple (than C++, eliminates pointers, no operating overloading)
+- Secure (runs inside JDM, creating sandbox, no damage to computer its running on)
